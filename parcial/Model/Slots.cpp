@@ -34,5 +34,6 @@ float Slots::calcularResultado(float gonzosApostar) {
 }
 
 void Slots::mostrarReglas() {
-    cout << "La maquina va a calcular un numero aleatorio, el jugador debe de escoger en cual slot podrá caer este numero aleatorio y a partir de ahi se multiplicaran los puntos para ganar gonzos \n";
+    cout << "Slots es un juego en el que una maquina escoge aleatoriamente 3 simbolos (en algunos modelos son 5 Si caen los 3 simbolos iguales o alguna combinación especial el jugador ganará cierta cantidad, de lo contrario perdera lo apostado. \n";
+    cout << " \n";
 }
